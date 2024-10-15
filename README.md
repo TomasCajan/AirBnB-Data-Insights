@@ -84,5 +84,6 @@ SHAP values are a great tool for understanding how the model decides. In this ca
 Alex can use it to learn: <br>
 
 - How can allowing guests into the rented apartment influence the price people are willing to pay for the rent.
+![Project Diagram](images/Q3_2.png)
 
 

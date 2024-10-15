@@ -11,4 +11,6 @@ Alex is currently planning his vacation. He would like to travel arround the wor
 That is quite expensive fun however, even for Alex, so he is trying to figure out, how to reduce the costs of his vacation. He does not really care when he goes for the vacation, for as long as it lasts 2 months.<br>
 Alex gets an idea - how about he rents his apartment while he is away, using the AirBnB. The rent could pay good portion of his travel expenses.<br>
 
+You can read about his adventures with AirBnB below.
+
 ![Project Diagram](images/DalleAlex.png)

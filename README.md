@@ -73,3 +73,5 @@ This can lead Alex to points, that can help him understand the customers behavio
 
 Alex is a fan of XGBoost machine learning model, so he utilizes it to train it on his data and assess its feature importances.
 
+![Project Diagram](images/Q3_1.png)
+

@@ -56,4 +56,4 @@ To answer this, Alex has to use his filtering and visualization skills again, th
 - And also limit the filtering only for those staring in June, because that is when we wants to start the rent.
 - Finaly he has to comparethe ammount of rent listings for all neighborhoods with the filtered dataset and visualize the result.
 
-- 
+![Project Diagram](images/Q2.png)

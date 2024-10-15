@@ -32,3 +32,7 @@ With the Kaggle Boston AirBnB dataset in his hands, Alex is ready to crack the m
 **Question 3** : What are the main factors influencing customers, who would rent such apartment? What can he do to improve his chances to attract people or earn more from rent?
 
 -------------
+
+**Question 1** : When is the optimal time to rent his apartment, for him to make the most money from the rent?<br>
+
+To answer this question, Alex has to use his coding and statistics skills to filter data specificaly according to his needs.

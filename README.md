@@ -1,6 +1,6 @@
 # AirBnB-Data-Insights
 
-#Welcome to the Undacity Data Scientist Nanodegree capstone project 1 - a data science blogpost.<br>
+# H1 Welcome to the Undacity Data Scientist Nanodegree capstone project 1 - a data science blogpost.<br>
 This excercise is meant to practice making data driven decisions.<br>
 The dataset we're about to analyze is available at    https://www.kaggle.com/datasets/airbnb/boston/data <br>
 Since this dataset was used quite many times, a creative approach was selected to find some non-trivial questions about this dataset and asnwer them using data. <br>

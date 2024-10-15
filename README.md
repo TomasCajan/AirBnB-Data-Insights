@@ -58,9 +58,18 @@ To answer this, Alex has to use his filtering and visualization skills again, th
 
 ![Project Diagram](images/Q2.png)
 
-- And there is the answer Alex is looking for  - we can observe that the ammounts of rents per neighbourhood are roughly separated into 3 categories - high, medium and low.
-- Alex ranked in the medium category - not bad, not great.
-- Alex definintely has good chances to rent his apartment, however he should use all the advantages he could to satisfy his customers needs to attract them.
-- His next question will help him with that.
+And there is the answer Alex is looking for  - we can observe that the ammounts of rents per neighbourhood are roughly separated into 3 categories - high, medium and low.<br>
+Alex ranked in the medium category - not bad, not great.<br>
+Alex definintely has good chances to rent his apartment, however he should use all the advantages he could to satisfy his customers needs to attract them.<br>
+His next question will help him with that.<br>
 
 -------------
+
+**Question 3** : What are the main factors influencing customers, who would rent such apartment? What can he do to improve his chances to attract people or earn more from rent?
+
+It's finaly time for Alex to showcase his machine learning skills, because to answer this question, he will need a trained machine learning model.
+Machine learning model can show its feature importances, in other words identify categories it considers important when predicting.
+This can lead Alex to points, that can help him understand the customers behaviour and preferences.
+
+Alex is a fan of XGBoost machine learning model, so he utilizes it to train it on his data and assess its feature importances.
+

@@ -20,10 +20,12 @@ Good thing he's a Data Scientist! He can make the data talk and help him. Alex h
 Answering them should help in decision making about how and when to rent.
 With the Kaggle Boston AirBnB dataset in his hands, Alex is ready to crack the mystery of a successful renting with AirBnB.<br>
 
-#### 3 main questions Alex has before he is ready to rent his apartment :.<br>
+#### 3 main questions Alex has before he is ready to rent his apartment :<br>
 
 **Question 1** : When is the optimal time to rent his apartment, for him to make the most money from the rent?
 
 **Question 2** : How are his chances to rent his apartment for full two months compared to apartments in other city neighbourhoods?
 
 **Question 3** : What are the main factors influencing customers, who would rent such apartment? What can he do to improve his chances to attract people or earn more from rent?
+
+-------------

@@ -93,4 +93,10 @@ The figure shows that allowing at least 3 guests into the apartment can increase
 
 ![Project Diagram](images/Q3_3.png)
 
+Having only one bed, which is Alex's case, is not a desired option for many. Good thing there's a furniture store in the next street, so Alex can buy a new one.
+
+- What kinds of verifications do people appreciate the most?
+
+  
+
 

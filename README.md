@@ -37,4 +37,9 @@ With the Kaggle Boston AirBnB dataset in his hands, Alex is ready to crack the m
 
 To answer this question, Alex has to use his coding and statistics skills to filter data specificaly according to his needs.
 
+- He has two dataframes, one containing rent prices and the other rent time periods, he firstly needs to join them together.
+- The only time data he has available are timestamps of rents, therefore he has to divide his data into months.
+- He has to filter the dataframe by location, to include only his neighborhood - Roxbury.
+- And finaly he has to visualize the pair of months, where the expected rent price is the highest.
+
 ![Project Diagram](images/Q1.png)

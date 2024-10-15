@@ -48,3 +48,12 @@ To answer this question, Alex has to use his coding and statistics skills to fil
 -------------
 
 **Question 2** : How are his chances to rent his apartment for full two months compared to apartments in other city neighbourhoods?
+
+To answer this, Alex has to use his filtering and visualization skills again, this time in different setting.
+
+- He performs the steps he did to answer the previous question
+- Then additionaly he has to filter the data only for those rent records, that lasted at least 60 days to eb relevant.
+- And also limit the filtering only for those staring in June, because that is when we wants to start the rent.
+- Finaly he has to comparethe ammount of rent listings for all neighborhoods with the filtered dataset and visualize the result.
+
+- 

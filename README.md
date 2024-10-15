@@ -75,8 +75,14 @@ Alex is a fan of XGBoost machine learning model, so he utilizes it to train it o
 
 ![Project Diagram](images/Q3_1.png)
 
-- There are many categories the model is trained on. While the model considers them important, by far not all of them will be relevant to Alex.<br>
+There are many categories the model is trained on. While the model considers them important, by far not all of them will be relevant to Alex.<br>
 Because it is his first rent listing, all the reviews based categories wont help him anyhow.<br>
 The categories that describe type of the house and location are also not very helpful, since Alex isn't going to move just because renting his apartment better.<br>
 But still, he can find some hints about what to work on.<br>
+
+SHAP values are a great tool for understanding how the model decides. In this case, how to understand how value of categories manipulates the price.
+Alex can use it to learn: <br>
+
+- How can allowing guests into the rented apartment influence the price people are willing to pay for the rent.
+
 

@@ -43,3 +43,8 @@ To answer this question, Alex has to use his coding and statistics skills to fil
 - And finaly he has to visualize the pair of months, where the expected rent price is the highest.
 
 ![Project Diagram](images/Q1.png)
+- And there's the answer! It looks like Alex can make the most money from rent in period June-July.
+
+-------------
+
+**Question 2** : How are his chances to rent his apartment for full two months compared to apartments in other city neighbourhoods?

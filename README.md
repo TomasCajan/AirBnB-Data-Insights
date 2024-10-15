@@ -57,3 +57,10 @@ To answer this, Alex has to use his filtering and visualization skills again, th
 - Finaly he has to comparethe ammount of rent listings for all neighborhoods with the filtered dataset and visualize the result.
 
 ![Project Diagram](images/Q2.png)
+
+- And there is the answer Alex is looking for  - we can observe that the ammounts of rents per neighbourhood are roughly separated into 3 categories - high, medium and low.
+- Alex ranked in the medium category - not bad, not great.
+- Alex definintely has good chances to rent his apartment, however he should use all the advantages he could to satisfy his customers needs to attract them.
+- His next question will help him with that.
+
+-------------

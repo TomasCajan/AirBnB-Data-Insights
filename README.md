@@ -87,6 +87,10 @@ Alex can use it to learn: <br>
   
 ![Project Diagram](images/Q3_2.png)
 
-The figure shows that 
+The figure shows that allowing at least 3 guests into the apartment can increase the price people are willing to pay for the rent. Simple thing to do.
+
+- How does bed count in the apartment matter?
+
+![Project Diagram](images/Q3_3.png)
 
 

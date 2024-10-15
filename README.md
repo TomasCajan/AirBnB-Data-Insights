@@ -17,7 +17,8 @@ You can read about his adventures with AirBnB below.
 
 ![Project Diagram](images/DalleAlex.png)
 
-You already heard that Alex would like to rent his apartment using AirBnB. However Alex knows nothing about AirBnB and renting at all.<br>
+You already heard that Alex would like to rent his apartment using AirBnB.<br>
+However Alex knows nothing about AirBnB and renting at all.<br>
 Good thing he's a Data Scientist! He can make the data talk and help him. Alex has 3 questions about the rent that make him curious the most.<br>
 Answering them should help in decision making about how and when to rent.
 With the Kaggle Boston AirBnB dataset in his hands, Alex is ready to crack the mystery of a successful renting with AirBnB.<br>

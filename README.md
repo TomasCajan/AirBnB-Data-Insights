@@ -4,6 +4,7 @@
 This excercise is meant to practice making data driven decisions.<br>
 The dataset we're about to analyze is available at    https://www.kaggle.com/datasets/airbnb/boston/data <br>
 You can find project code in notebook AirBnB_Blogpost.ipynb, along with image folder used to enhance this readme file.<br>
+This is a Python project using libraries Numpy and Pandas for data handling, XGBoost for modeling and Plotly with SHAP for visualization.<br>
 
 Since this dataset was used quite many times, a creative approach was selected to find some non-trivial questions about this dataset and answer them using data. <br>
 

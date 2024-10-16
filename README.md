@@ -1,7 +1,7 @@
 # AirBnB-Data-Insights : Alex's story
 
 #### Welcome to the Udacity Data Scientist Nanodegree capstone project 1 - a data science blogpost.<br>
-This excercise is meant to practice making data driven decisions.<br>
+This excercise is meant as a practice of making data driven decisions.<br>
 The dataset we're about to analyze is available at    https://www.kaggle.com/datasets/airbnb/boston/data <br>
 You can read it also at https://www.kaggle.com/code/tomcajan/alex-s-story-a-udacity-project<br>
 You can find project code in notebook AirBnB_Blogpost.ipynb, along with image folder used to enhance this readme file.<br>

@@ -79,7 +79,7 @@ Alex is a fan of XGBoost machine learning model, so he utilizes it to train it o
 ![Project Diagram](images/Q3_1.png)
 
 There are many categories the model is trained on. While the model considers them important, by far not all of them will be relevant to Alex.<br>
-Because it is his first rent listing, all the reviews based categories won't help him anyhow.<br>
+Because it is his first rent listing, all the reviews based categories won't help him in any way.<br>
 The categories that describe type of the house and location are also not very helpful, since Alex isn't going to move just because renting his apartment better.<br>
 But still, he can find some hints about what to work on.<br>
 

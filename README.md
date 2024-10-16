@@ -1,4 +1,4 @@
-# AirBnB-Data-Insights
+# AirBnB-Data-Insights : Alex's story
 
 #### Welcome to the Udacity Data Scientist Nanodegree capstone project 1 - a data science blogpost.<br>
 This excercise is meant to practice making data driven decisions.<br>

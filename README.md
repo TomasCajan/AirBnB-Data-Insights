@@ -115,4 +115,4 @@ So it's now all clear for Alex. Let's sum up what he learned.<br>
 And that's it! All this knowledge should be just about enough for Alex to sucessfully rent his apartment.<br>
 So let's hope he will be a good landlord and lets wish him a happy vacation.<br>
 
-
+![Project Diagram](images/AlexChillin.png)

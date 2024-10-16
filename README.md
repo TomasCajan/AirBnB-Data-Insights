@@ -3,6 +3,8 @@
 #### Welcome to the Undacity Data Scientist Nanodegree capstone project 1 - a data science blogpost.<br>
 This excercise is meant to practice making data driven decisions.<br>
 The dataset we're about to analyze is available at    https://www.kaggle.com/datasets/airbnb/boston/data <br>
+In this repository, you can find the main Jupyter notebook - AirBnB_Blogpost.ipynb that contains the project code, along with an image folder used to enhance this readme file.<br>
+
 Since this dataset was used quite many times, a creative approach was selected to find some non-trivial questions about this dataset and answer them using data. <br>
 
 -------------

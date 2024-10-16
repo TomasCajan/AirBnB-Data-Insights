@@ -37,7 +37,7 @@ With the Kaggle Boston AirBnB dataset in his hands, Alex is ready to crack the m
 
 To answer this question, Alex has to use his coding and statistics skills to filter data specificaly according to his needs.
 
-- He has two dataframes, one containing rent prices and the other rent time periods, he firstly needs to join them together.
+- He has two dataframes, one containing rent prices and the other rent time periods, he needs to join them together first.
 - The only time data he has available are timestamps of rents, therefore he has to divide his data into months.
 - He has to filter the dataframe by location, to include only his neighborhood - Roxbury.
 - And finaly he has to visualize the pair of months, where the expected rent price is the highest.
@@ -49,19 +49,19 @@ To answer this question, Alex has to use his coding and statistics skills to fil
 
 **Question 2** : How are his chances to rent his apartment for full two months compared to apartments in other city neighbourhoods?
 
-To answer this, Alex has to use his filtering and visualization skills again, this time in different setting.
+To answer this, Alex has to use his filtering and visualization skills again, this time in a different setting.
 
 - He performs the steps he did to answer the previous question
-- Then additionaly he has to filter the data only for those rent records, that lasted at least 60 days to eb relevant.
+- Then additionaly he has to filter the data only for those rent records, that lasted at least 60 days to be relevant.
 - And also limit the filtering only for those staring in June, because that is when we wants to start the rent.
-- Finaly he has to comparethe ammount of rent listings for all neighborhoods with the filtered dataset and visualize the result.
+- Finaly he has to compare the ammount of rent listings for all neighborhoods with the filtered dataset and visualize the result.
 
 ![Project Diagram](images/Q2.png)
 
 And there is the answer Alex is looking for  - we can observe that the ammounts of rents per neighbourhood are roughly separated into 3 categories - high, medium and low.<br>
 Alex ranked in the medium category - not bad, not great.<br>
-Alex definintely has good chances to rent his apartment, however he should use all the advantages he could to satisfy his customers needs to attract them.<br>
-His next question will help him with that.<br>
+Alex definintely has good chances to rent his apartment, however he should use all the advantages he could get to satisfy his customers needs to attract them.<br>
+His next question will help him with that!<br>
 
 -------------
 
@@ -76,7 +76,7 @@ Alex is a fan of XGBoost machine learning model, so he utilizes it to train it o
 ![Project Diagram](images/Q3_1.png)
 
 There are many categories the model is trained on. While the model considers them important, by far not all of them will be relevant to Alex.<br>
-Because it is his first rent listing, all the reviews based categories wont help him anyhow.<br>
+Because it is his first rent listing, all the reviews based categories won't help him anyhow.<br>
 The categories that describe type of the house and location are also not very helpful, since Alex isn't going to move just because renting his apartment better.<br>
 But still, he can find some hints about what to work on.<br>
 

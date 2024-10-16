@@ -103,6 +103,9 @@ There are several ways he can use, like Facebook, LinkedIn, Jumio, or kba.
 In the SHAP values Alex can notice, that beigh verified over Facebook and Jumio directy lowers the expected price people will be willing to pay. For kba the result is mixed.<br>
 Only for the LinkedIn, having that verification seems to correlate with price increase.<br>
 It is no surprise afterall, since linkedIn requires people's personal ID's to be scanned to get verified.<br>
+
+-------------
+
 So it's now all clear for Alex. Let's sum up what he learned.<br>
 
 1) He should allow at least 3 guest for the time of rent.<br>

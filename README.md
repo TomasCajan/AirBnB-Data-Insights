@@ -95,11 +95,21 @@ The figure shows that allowing at least 3 guests into the apartment can increase
 
 Having only one bed, which is Alex's case, is not a desired option for many. Good thing there's a furniture store in the next street, so Alex can buy a new one.
 
-- What kinds of verifications do people appreciate the most?
-  There are several ways he can use, like Facebook, LinkedIn, Jumio, or kba.
+- What kinds of verifications do people appreciate the most?<br>
+There are several ways he can use, like Facebook, LinkedIn, Jumio, or kba.
 
 ![Project Diagram](images/Q3_4.png)
 
-  
+In the SHAP values Alex can notice, that beigh verified over Facebook and Jumio directy lowers the expected price people will be willing to pay. For kba the result is mixed.<br>
+Only for the LinkedIn, having that verification seems to correlate with price increase.<br>
+It is no surprise afterall, since linkedIn requires people's personal ID's to be scanned to get verified.<br>
+So it's now all clear for Alex. Let's sum up what he learned.<br>
+
+1) He should allow at least 3 guest for the time of rent.<br>
+2) He should buy a new bed, so that he has at least two of them.<br>
+3) For the verification, he should choose LinkedIn as it appears to be the one most trusted according to his data.<br>
+
+And that's it! All this knowledge should be just about enough for Alex to sucessfully rent his apartment.<br>
+So let's hope he will be a good landlord and lets wish him a happy vacation.<br>
 
 
